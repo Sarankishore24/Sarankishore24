@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I’m Saran Kishore<br><br>I’m a Computer Science undergraduate passionate about building real-world applications using<br>Data Science, Machine Learning, and Full-Stack Development.<br><br>I enjoy working with Python, Java, and JavaScript, building scalable web applications using the<br>MERN stack, and developing data-driven solutions with Pandas, NumPy, and scikit-learn.<br><br>I have hands-on internship experience in biomedical data preprocessing, where I worked on<br>cleaning, normalizing, and automating data pipelines to improve model accuracy.<br><br>Currently exploring NLP, cloud technologies (AWS), and system design fundamentals, while<br>solving DSA problems and participating in hackathons.<br><br>Always curious, always building 🚀<br>
+Computer Science undergraduate | Data Science • Machine Learning • Full-Stack Development  <br>Python | Java | React | SQL | AWS  <br><br>I build data-driven and full-stack applications, enjoy solving DSA problems, and love turning<br>ideas into working products 🚀<br>
 
 
 ## 🌐 Socials:
